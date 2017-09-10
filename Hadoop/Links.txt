@@ -1,0 +1,5 @@
+http://hortonworks.com/wp-content/uploads/2013/12/Apache.Hadoop.YARN_.Sample.pdf
+http://enos.itcollege.ee/~jpoial/allalaadimised/lugemist/Apache-Hadoop-Tutorial.pdf
+
+http://javaarm.com/file/apache/Hadoop/books/Hadoop-for-dumies_Dirk.deRoos-Paul.C_2014.pdf
+https://www.javacodegeeks.com/2016/02/apache-hadoop-tutorial.html
